@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Abelhga"
+author: "Abel Hernández"
 date: "5/9/2020"
 output: html_document
 ---
@@ -9,9 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is a markdown file
+## This is a markdown file 
 
-Version 2.0
+
 
 This is my first markdown file uploaded to Github for my coursera course.
 
